@@ -17,3 +17,5 @@ include:
     shield: corne_left
   - board: bluemicro840_v1
     shield: corne_right
+  - board: bluemicro840_v1
+    shield: settings_reset
