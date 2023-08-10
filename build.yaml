@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: bluemicro840_v1
+  - board: nrf52840dk
     shield: corne_left
-  - board: bluemicro840_v1
+  - board:nrf52840dk
     shield: corne_right
-  - board: bluemicro840_v1
+  - board: nrf52840dk
     shield: settings_reset
